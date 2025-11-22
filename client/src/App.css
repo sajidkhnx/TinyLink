@@ -1,0 +1,11 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* small utility to keep main readable */
+.main-content {
+  padding-top: 16px;
+  padding-bottom: 24px;
+}
