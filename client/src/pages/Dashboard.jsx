@@ -172,10 +172,10 @@ export default function Dashboard() {
           <table className="w-full text-left">
             <thead className="bg-gray-50 text-sm text-gray-600">
               <tr>
-                <th className="p-3">Code</th>
+                <th className="p-3">Short Code</th>
                 <th className="p-3">Target URL</th>
-                <th className="p-3">Clicks</th>
-                <th className="p-3">Last Clicked</th>
+                <th className="p-3">Total clicks </th>
+                <th className="p-3">Last Clicked Time</th>
                 <th className="p-3">Actions</th>
               </tr>
             </thead>
