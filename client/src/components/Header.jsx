@@ -15,7 +15,7 @@ export default function Header() {
           </Link>
          
           <span className="text-gray-400">|</span>
-           <a target="blank" className="text-blue-600 hover:underline"href="http://localhost:5001/healthz">Healthz</a>
+           <a target="blank" className="text-blue-600 hover:underline"href="https://tinylink-hspl.onrender.com/healthz">Healthz</a>
         </nav>
       </div>
     </header>
